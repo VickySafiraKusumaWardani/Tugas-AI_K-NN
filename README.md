@@ -8,6 +8,9 @@ preprocesss yang telah dibuat sebelumnya dengan format arff di notepad maka sela
 # ZeroR
 ![ZeroR](https://user-images.githubusercontent.com/57054610/113715001-312ae680-9713-11eb-9e71-65fa6bab44fe.png)
 
+# ARFF
+Merupakan singkatan dari (Attribute Relation File Format) adalah file teks ASCII yang menjelaskan daftar instance yang berbagi ke sekumpulan atribut. File ARFF dikembangkan oleh Machine Learning Project yang kompatibel dengan software Weka Machine Learning.
+
 # Generic Object Editor
 generic object editor weka merupakan suatu komponen inti di Weka untuk memodifikasi skema, seperti pengklasifikasi dan filter di GUI. Ini harus dikonfigurasi dengan benar untuk menampilkan skema default dan tambahan, berikut ini merupakan generic object editor yang telah dibuat
 ![Generic Object Editor](https://user-images.githubusercontent.com/57054610/113715309-8cf56f80-9713-11eb-8e82-f3d587dcdeb3.png)
