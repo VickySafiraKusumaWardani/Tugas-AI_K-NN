@@ -1,5 +1,5 @@
 # Tugas-AI_K-NN
-Kecerdasan Buatan 1184037 Vicky Safira Kusuma Wardani Dosen Pengampu : Mohamad Nurkamal Fauzan, ST, MT
+Mata Kuliah : Kecerdasan Buatan 1184037 Vicky Safira Kusuma Wardani Dosen Pengampu : Mohamad Nurkamal Fauzan, ST, MT
 
 # PREPROCESSS
 preprocesss yang telah dibuat sebelumnya dengan format arff di notepad maka selanjutnya akan diproses, Data yang dikumpulkan mengandung banyak hal yang tidak diinginkan yang mengarah pada analisis yang salah. Misalnya, data yang bisa berisi bidang null, mungkin berisi kolom yang tidak relevan dengan analisis saat ini, dan seterusnya. Dengan demikian, data harus terlebih dahulu terlebih dahulu untuk memenuhi persyaratan analisis yang dicari.
